@@ -1,6 +1,6 @@
 # QuakeBot
 
-In/out of class code challenge to recreate LA Times' quakebot
+I recreated The LA Times' QuakeBot, which grabs 
 
 ## Setup
 
